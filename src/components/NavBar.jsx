@@ -23,7 +23,7 @@ function NavBar() {
             <a className="nav-link active" href="cadenas">
               Cadenas
             </a>
-            <a className="nav-link active" href="cangongas">
+            <a className="nav-link active" href="candongas">
               Candongas
             </a>
             <a className="nav-link active" href="manillas">
